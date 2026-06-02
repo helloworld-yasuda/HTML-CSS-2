@@ -14,7 +14,7 @@
 }
 
 h1{
-    color: white;
+    color: #fff;
     font-size:36px;
     margin-top:0;
     margin-bottom:10px;
@@ -43,13 +43,13 @@ h1{
 
 .subtext{
     font-size: 18px;
-    color: white;
+    color: #fff;
     text-align: center;
 
 }
 
 .card{
-    background-color: white;
+    background-color: #fff;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width:30%;
@@ -80,7 +80,7 @@ h1{
 
 table{
     width: 100%;
-    background-color: white;
+    background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 10px;
     border-collapse: collapse;
